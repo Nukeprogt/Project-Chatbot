@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello there :)"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello :)"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello again"
+    },
+    {
+      "question": "Do i have a schedule for today?",
+      "answer": "There is a schedule for work started at 9AM till 5pm"
+    },
+    {
+      "question": "What room is lab accounting is at?",
+      "answer": "L1E on Syahdan Campus"
+    },
+    {
+      "question": "Where can i find support centre?",
+      "answer": "Support centre can be found at Binus Support"
+    },
+    {
+      "question": "Thank you",
+      "answer": "Sure thing, can i help with other tasks?"
+    },
+    {
+      "question": "No, thats all",
+      "answer": "Glad to hear, just call me if needed an asistance"
+    },
+    {
+      "question": "nope",
+      "answer": "Glad to hear, just call me if needed an asistance"
+    },
+    {
+      "question": "is there other lab accounting location?",
+      "answer": "There is another lab accounting located at Alam Sutera and Bekasi"
+    },
+    {
+      "question": "CIBAI",
+      "answer": "Hey, no bad word's allowed here."
+    },
+    {
+      "question": "Yes, there is",
+      "answer": "Sure, ask away"
+    },
+    {
+      "question": "Yes",
+      "answer": "Sure, what is your question?"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why is the cow so fast? because she was Mooouving"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "According to my database, i can only reply to certain prompt"
+    },
+    {
+      "question": "what is lab accounting about",
+      "answer": "Albert and Miss Natasya shared their experiences about being Accounting Laboratory assistants when they were still in college. They shared the benefits of being an assistant, such as: increasing relationships with friends outside the home campus and gaining a lot of assistant technical skills."
+    },
+    {
+      "question": "im having trouble with binus support",
+      "answer": "I'm suggesting to visit lab accounting and ask for the inconvinience"
+    },
+    {
+      "question": "help",
+      "answer": "Binus support can help in working hours, Please do contact binus support"
+    }
+  ]
+}
